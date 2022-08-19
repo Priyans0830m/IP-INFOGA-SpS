@@ -5,21 +5,21 @@
 
 ### Available On
 
-- Termux
+- `Termux`
 
-- Kali Linux
+- `Kali Linux`
 
-- macOS
+- `macOS`
 
 ### Test On:
 
-- Termux
+- `Termux`
 
-- Moto g40 & Moto g62
+- `Moto g40 & Moto g62`
 
-- samsung j4
+- `samsung j4`
 
--Micromax in 2b
+- `Micromax in 2b`
 
 ### INSTALLATION [Termux] :
 
