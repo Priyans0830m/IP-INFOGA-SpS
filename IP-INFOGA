@@ -9,7 +9,7 @@ banner() {
                  figlet SpS
     fi
     if ! [ -x "$(command -v toilet)" ]; then
-        echo -e "\e[4;34m This Bomber Was Created By \e[1;32mIncredible Hacker \e[0m"
+        echo -e "\e[4;34m This Tool Was Created By \e[1;32mpriyans0830m \e[0m"
     else
         echo -e "\e[1;34mCreated By \e[1;34m"
         figlet Priyans0830m 
@@ -89,7 +89,7 @@ printf "  \e[0m\e[1;93m  Languages     \e[0m\e[1;96m:\e[0m\e[1;92m   $mylanguage
 printf "  \e[0m\e[1;93m  Calling Code  \e[0m\e[1;96m:\e[0m\e[1;92m   $mycalling\e[0m\n"
 printf "\e[0m\n"
 printf "  \e[0m\e[1;93m  GOOGLE Maps   \e[0m\e[1;96m:\e[0m\e[1;94m  https://maps.google.com/?q=$mylat,$mylon\e[0m\n"
-sleep 5
+sleep 3
 printf "\e[0m\n"
 printf "  \e[0m\e[1;91m[\e[0m\e[1;97m01\e[0m\e[1;91m]\e[0m\e[1;93m Return To Main Menu\e[0m\n"
 printf "  \e[0m\e[1;91m[\e[0m\e[1;97m02\e[0m\e[1;91m]\e[0m\e[1;93m Exit\e[0m\n"
@@ -160,7 +160,7 @@ printf "  \e[0m\e[1;93m  Languages     \e[0m\e[1;96m:\e[0m\e[1;92m   $userlangua
 printf "  \e[0m\e[1;93m  Calling Code  \e[0m\e[1;96m:\e[0m\e[1;92m   $usercalling\e[0m\n"
 printf "\e[0m\n"
 printf "  \e[0m\e[1;93m  GOOGLE Maps   \e[0m\e[1;96m:\e[0m\e[1;94m  https://maps.google.com/?q=$userlat,$userlon\e[0m\n"
-sleep 5
+sleep 3
 printf "\e[0m\n"
 printf "  \e[0m\e[1;91m[\e[0m\e[1;97m01\e[0m\e[1;91m]\e[0m\e[1;93m Return To Main Menu\e[0m\n"
 printf "  \e[0m\e[1;91m[\e[0m\e[1;97m02\e[0m\e[1;91m]\e[0m\e[1;93m Exit\e[0m\n"
